@@ -1,3 +1,0 @@
-Hello, My Name is Dhairya and I am Learning Git now.
-
-This session covers the Git commands and Github repository usage.
